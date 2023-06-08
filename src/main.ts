@@ -5,7 +5,8 @@ import { setupCounter } from './counter.ts'
 
 //import './intro-ts/01-tipos-bas.ts'
 //import './intro-ts/02-objetos-interfaces-arreglos.ts'
-import './intro-ts/03-funciones.ts'
+//import './intro-ts/03-funciones.ts'
+import './intro-ts/04-desestructura-objetos.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
